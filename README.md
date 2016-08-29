@@ -4,10 +4,15 @@ Apollo is a Minecraft: PE Server Software with an improved Generator and a lot m
 #Note: 
 
 Apollo is one project abandonated. If you want copy-generator ,you can copy-paste because is one open-source.
+
 Anyone can copy generator.
+
 Generator is more more epic and have more performance.
+
 More better as Genisys and ClearSky*.
+
 I want to continue project with performance in generator. But with other no . :)
+
 I want to create one plugin for add this generator :)
 
 #IMPORTANT!
