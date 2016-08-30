@@ -15,6 +15,14 @@ I want to continue project with performance in generator. But with other no . :)
 
 I want to create one plugin for add this generator :)
 
+## World features
+
+All world features is based on Genisys developments and Spigot.
+
+Based on Spigot :
+- Biome temperatures
+ 
+
 #IMPORTANT!
 
 Thanks all and more thanks to : @Aericio ( lenny and nab ) , @SalmonGER ( more better developer ,you can ask you for question of PocketMine ) and @caspervanneck ( developer 0.5/1 with generator ) for help. :)
