@@ -44,8 +44,8 @@ class PlainBiome extends GrassyBiome{
 		$this->addPopulator($waterPit);
 		$this->addPopulator($populatorTallGrass);
 		$this->setElevation(64, 72);
-		$this->temperature = 0.80;
-		$this->rainfall = 0.40;
+		$this->temperature = (float) 0.125;
+		$this->rainfall = (float) 0.05;
 	}
 	public function getName() : string{
 		return "Plains";
