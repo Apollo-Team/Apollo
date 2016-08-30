@@ -17,7 +17,7 @@ I want to create one plugin for add this generator :)
 
 ## World features
 
-All world features is based on Genisys developments and Spigot.
+All world features is based on Genisys developments, wiki's and Spigot.
 
 Based on Spigot :
 - Biome temperatures
