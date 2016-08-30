@@ -264,7 +264,7 @@ Mountains and Small Mountains is not principal biomes. Fix in future
         BiomeBase.a(167, "mutated_mesa_clear_rock", new BiomeMesa(false, false, new a("Mesa Plateau M").a("mesa_clear_rock").c(0.45f).d(0.3f).a(2.0f).b(0.0f).a()));
         */
 	public static function init(){
-		self::register(self::OCEAN, new OceanBiome());
+		self::register(self::OCEAN, new OceanBiome()); //OceanBiome($temperature = -1.0f && $humidity = 0.1f);
 		self::register(self::PLAINS, new PlainBiome());
 		self::register(self::DESERT, new DesertBiome());
 		self::register(self::MOUNTAINS, new MountainsBiome()); 
